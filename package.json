@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MarcosNBJ/4chan-get-media/issues"
   },
-  "homepage": "https://github.com/MarcosNBJ/4chan-get-media#readme"
+  "homepage": "https://github.com/MarcosNBJ/4chan-get-media#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
 }
