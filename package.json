@@ -1,0 +1,19 @@
+{
+  "name": "4chan-get-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "4chan-get-media.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosNBJ/4chan-get-media.git"
+  },
+  "author": "MarcosNBJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosNBJ/4chan-get-media/issues"
+  },
+  "homepage": "https://github.com/MarcosNBJ/4chan-get-media#readme"
+}
