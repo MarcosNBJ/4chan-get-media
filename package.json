@@ -1,6 +1,6 @@
 {
   "name": "4chan-get-media",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "4chan-get-media.js",
   "scripts": {
